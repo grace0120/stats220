@@ -1,4 +1,13 @@
+# This is my STATS220 repo! 😝
+Hi! I am currently a student at the [University of Auckland](https://www.auckland.ac.nz/) studying computer science and statistics! You can see my work on stats220 on this page!
+## My Meme
 ![](my_meme.png)
+
+**Why I created this meme**
+1. This meme represents my real reaction to studing on Zoom this semester.
+2. There are many students that are motivated at the start of the semester and after a while, they'll become demotivated and lazy, like me😅.
+3. I have applied my idea to the general meme format and used the pictures I found on the internet.
+
 
 ### My code
 ```{r}
